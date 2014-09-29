@@ -1,0 +1,9 @@
+ExtensionContent/
+MXI/
+build
+*.p12
+ucf.jar
+ZXPSignCmd
+.project
+.settings
+.staged-extension
